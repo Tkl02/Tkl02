@@ -1,13 +1,13 @@
-## Oi meu nome é Leonardo Dias, sou estudante de Bacharelado em Ciências da Computanção!<img src = "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30 px"> </h1>
+## Oi meu nome é Leonardo Dias, sou estudante de Bacharelado em Ciências da Computanção!<img src = "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30" width="30"> </h1>
 
-<hr>
+
 <div align="center">
   <a href="https://github.com/Tkl02">
   <img height="180" width="400" src="https://github-readme-stats.vercel.app/api?username=Tkl02&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="205" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tkl02&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <div style="display: inline_block">
- 
+ <hr>
   <img align="center" alt="TK-java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Tk-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="TK-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
