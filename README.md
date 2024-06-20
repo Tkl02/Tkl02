@@ -1,4 +1,4 @@
-## Oi meu nome é Leonardo Dias, sou estudante de Bacharelado em Ciências da Computação!<img src = "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30" width="30"> </h1>
+![Tkl02 Banner image][./banner.png]
 
 
 <div align="center">
