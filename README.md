@@ -1,15 +1,15 @@
 <div><img src=https://github.com/Tkl02/Tkl02/blob/main/banner.png></div>
 
 <div>
-  <img src=https://github.com/Tkl02/Tkl02/blob/main/character.png>
+  <img align="right" src=https://github.com/Tkl02/Tkl02/blob/main/400.png>
 </div>
 
-<p align="left">I'm a computer science student at IF Goiano Morrinhos and I mainly study information security and programming.</p>
+<p align="left">I'm a computer science student at IF Goiano Morrinhos and I mainly study information security and programming.
 
 📚Student of life<br>
-🌱I am currently learning many things, I believe that everyone who creates their opportunities<br>
-💻I study different security techniques, both red team and blue team.<br>
-
+🌱I am currently learning many things, I believe that everyone<br> who creates their opportunities<br>
+💻I study different security techniques, both red team and blue team.
+</p>
 <hr>
 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
