@@ -1,33 +1,63 @@
-![Tkl02 Banner image][./banner.png]
+<div><img src=https://github.com/Tkl02/Tkl02/blob/main/banner.png></div>
 
+<div>
+  <img src=https://github.com/Tkl02/Tkl02/blob/main/character.png>
+</div>
 
+<p align="left">I'm a computer science student at IF Goiano Morrinhos and I mainly study information security and programming.</p>
+
+📚Student of life<br>
+🌱I am currently learning many things, I believe that everyone who creates their opportunities<br>
+💻I study different security techniques, both red team and blue team.<br>
+
+<hr>
+
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Tkl02">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tkl02&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Tkl02">
+          <img align="center" src="https://streak-stats.demolab.com?user=Tkl02&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  </tr>
+</table>
+<br />
+<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
-  <a href="https://github.com/Tkl02">
-  <img height="180" width="400" src="https://github-readme-stats.vercel.app/api?username=Tkl02&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="205" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tkl02&layout=compact&langs_count=7&theme=radical"/>
-</div>
-<div style="display: inline_block">
- <hr>
-  <img align="center" alt="TK-java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img align="center" alt="Tk-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="TK-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="TK-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  
+<a href="mailto:kirannaragund197@gmail.com" target="_blank">
+<img src="./gmail.png" width=50 height=50 alt="leonardofaustino0@gmail.com" style="margin-bottom: 5px;" />
+</a>
 
- 
-</div>
-  
-  ##
- 
-<div> 
-  
-  <a href="https://www.instagram.com/leonardo_di4s/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "https://api.whatsapp.com/send/?phone=5564981107095&text&app_absent=0"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-  <a href="https://discord.gg/ggz9ftyE" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-   <a href = "mailto:leonardofaustino0@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/leonardo-faustino-412908254/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
-  
+<a href="https://x.com/Leo_Dias_0" target="_blank">
+<img src="./twitter.png" width=50 height=50 alt="Leo_Dias_0" style="margin-bottom: 5px;" />
+</a>
 
-![Snake animation](https://github.com/Tkl02/Tkl02/blob/output/github-contribution-grid-snake.svg)
- 
+<a href="https://www.instagram.com/leonardo_di4s/" target="_blank">
+<img src="./instagram.png" width=50 height=50 alt="leonardo_di4s" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.githubcom/Tkl02/" target="_blank">
+<img src="./github.png" width=50 height=50 alt="Tkl02" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.linkedin.com/in/leonardo-faustino-412908254/" target="_blank">
+<img src="./linkedin.png" width=50 height=50 alt="leonardo-faustino-412908254" style="margin-bottom: 5px;" />
+</a>
+
 </div>
+<br/>
