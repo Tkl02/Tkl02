@@ -1,5 +1,5 @@
 <div><img src=https://github.com/Tkl02/Tkl02/blob/main/banner.png></div>
-<h2>Mitnick, K. 
+<h2 align="center">Mitnick, K. 
   “The true art of hacking is to exploit the flaws in the human mind, not just the flaws in the code.”</h2>
 <div>
   <img align="right" src=https://github.com/Tkl02/Tkl02/blob/main/480.png>
@@ -11,10 +11,11 @@
 🌱I am currently learning many things, I believe that everyone who creates their opportunities<br>
 💻I study different security techniques, both red team and blue team.
 </p>
-<hr>
-<br><br><br>
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
+
+<br><br><br>
+
+<h2 align="right">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 <table width="100%">
   <tr>
     <td width="50%">
