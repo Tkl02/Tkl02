@@ -60,19 +60,19 @@
 <div align="center">
   
 <a href="mailto:leonardo.faustino.sec@gmail.com" target="_blank">
-<img src="./gmail.png" width=50 height=50 alt="leonardofaustino0@gmail.com" style="margin-bottom: 5px;" />
+<img src="./gmail.png" width=40 height=40 alt="leonardofaustino0@gmail.com" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.instagram.com/leonardo.faustin0/" target="_blank">
-<img src="./instagram.png" width=50 height=50 alt="leonardo_di4s" style="margin-bottom: 5px;" />
+<img src="./instagram.png" width=40 height=40 alt="leonardo_di4s" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.githubcom/Tkl02/" target="_blank">
-<img src="./github.png" width=50 height=50 alt="Tkl02" style="margin-bottom: 5px;" />
+<img src="./github.png" width=40 height=40 alt="Tkl02" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.linkedin.com/in/leonardo-faustino-77581633a/" target="_blank">
-<img src="./linkedin.png" width=50 height=50 alt="leonardo-faustino-412908254" style="margin-bottom: 5px;" />
+<img src="./linkedin.png" width=40 height=40 alt="leonardo-faustino-412908254" style="margin-bottom: 5px;" />
 </a>
 
 </div>
