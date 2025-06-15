@@ -59,15 +59,11 @@
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
   
-<a href="mailto:leonardofaustino0@gmail.com" target="_blank">
+<a href="mailto:leonardo.faustino.sec@gmail.com" target="_blank">
 <img src="./gmail.png" width=50 height=50 alt="leonardofaustino0@gmail.com" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://x.com/Leo_Dias_0" target="_blank">
-<img src="./twitter.png" width=50 height=50 alt="Leo_Dias_0" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://www.instagram.com/leonardo_di4s/" target="_blank">
+<a href="https://www.instagram.com/leonardo.faustin0/" target="_blank">
 <img src="./instagram.png" width=50 height=50 alt="leonardo_di4s" style="margin-bottom: 5px;" />
 </a>
 
@@ -75,7 +71,7 @@
 <img src="./github.png" width=50 height=50 alt="Tkl02" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.linkedin.com/in/leonardo-faustino-412908254/" target="_blank">
+<a href="https://www.linkedin.com/in/leonardo-faustino-77581633a/" target="_blank">
 <img src="./linkedin.png" width=50 height=50 alt="leonardo-faustino-412908254" style="margin-bottom: 5px;" />
 </a>
 
