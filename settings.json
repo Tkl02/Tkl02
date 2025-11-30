@@ -20,7 +20,6 @@
     "explorer.compactFolders": false, // Mostra/oculta pastas em modo compacto no Explorer
     "github.copilot.enable": {"*": false}, // Habilita/desabilita GitHub Copilot por escopo (aqui desativado globalmente)
     "gitlens.ai.model": "vscode", // Modelo AI utilizado pelo GitLens
-    "terminal.integrated.defaultLocation": "editor", // Local padrão do terminal integrado (ex.: 'editor' ou 'panel')
     "terminal.integrated.defaultProfile.windows": "PowerShell", // Perfil padrão do terminal no Windows
     "terminal.integrated.tabs.location": "left", // Posição das abas do terminal integrado
     "window.commandCenter": false, // Habilita/desabilita o Command Center (painel de comandos)
