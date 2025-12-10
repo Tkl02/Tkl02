@@ -1,12 +1,5 @@
-// configuration of my vscode
-// use custom ui style extension
-
 {
     "breadcrumbs.enabled": false, // Ativa/desativa breadcrumbs (navegação de símbolos/arquivos acima do editor)
-    "custom-ui-style.stylesheet": { // CSS personalizado para estilizar a UI do editor
-        ".composite.title.has-actions:not(.has-composite-bar)": "height:0px !important;", // Remove a altura do título de composite quando não há barra composta
-        ".composite.header": "height: 70px !important;" // Define a altura do cabeçalho composto
-    },
     "editor.fontFamily": "'Fira Code', 'Courier New', monospace", // Fonte usada no editor
     "editor.fontLigatures": true, // Habilita ligaturas de fonte
     "editor.fontSize": 14.5, // Tamanho da fonte no editor (px)
@@ -18,19 +11,27 @@
     "editor.wordWrap": "on", // Ativa quebra automática de linha
     "editor.wordWrapColumn": 80, // Coluna alvo/limite para quebra de linha
     "explorer.compactFolders": false, // Mostra/oculta pastas em modo compacto no Explorer
-    "github.copilot.enable": {"*": false}, // Habilita/desabilita GitHub Copilot por escopo (aqui desativado globalmente)
+    "github.copilot.enable": {
+        "*": false
+    }, // Habilita/desabilita GitHub Copilot por escopo (aqui desativado globalmente)
     "gitlens.ai.model": "vscode", // Modelo AI utilizado pelo GitLens
     "terminal.integrated.defaultProfile.windows": "PowerShell", // Perfil padrão do terminal no Windows
     "terminal.integrated.tabs.location": "left", // Posição das abas do terminal integrado
     "window.commandCenter": false, // Habilita/desabilita o Command Center (painel de comandos)
     "window.menuBarVisibility": "toggle", // Visibilidade da barra de menus ('toggle', 'visible', 'hidden')
-    "window.title": "", // muda o titulo da barra 
-    "workbench.activityBar.location": "top", // Localização da Activity Bar (left, right, top)
-    "workbench.colorTheme": "Min Dark", // Tema de cores do Workbench
-    "workbench.editor.editorActionsLocation": "titleBar", // Local das ações do editor (ex.: 'titleBar')
-    "workbench.editor.enablePreview": false, // Habilita/desabilita preview ao abrir arquivos
+    "window.title": "Vs code - ${profileName}", // muda o titulo da barra
+    "workbench.activityBar.location": "top", // Tema de cores do Workbench
+    "workbench.editor.editorActionsLocation": "hidden", // Local das ações do editor (ex.: 'titleBar')
+    "workbench.editor.enablePreview": true, // Habilita/desabilita preview ao abrir arquivos
     "workbench.editor.labelFormat": "short", // Formato dos rótulos dos editores (short, medium, long)
     "workbench.iconTheme": "symbols", // Tema de ícones do Workbench
     "workbench.layoutControl.enabled": false, // Habilita controle de layout do Workbench
-    "workbench.startupEditor": "none" // O que abrir ao iniciar o Workbench (ex.: 'welcome', 'none')
+    "workbench.startupEditor": "none", // O que abrir ao iniciar o Workbench (ex.: 'welcome', 'none')
+    "workbench.statusBar.visible": false, // Mostra/oculta a barra de status na parte inferior do Workbench
+    "terminal.integrated.hideOnStartup": "always", // Oculta o terminal integrado ao iniciar o VS Code
+    "terminal.integrated.enablePersistentSessions": false, // Desabilita sessões persistentes do terminal integrado
+    "github.copilot.nextEditSuggestions.enabled": true, // Habilita sugestões de edição do GitHub Copilot
+    "editor.formatOnSave": true, // Formata automaticamente o arquivo ao salvar
+    "workbench.colorTheme": "Min Darkest", // Define o tema de cores do Workbench como 'Min Darkest'
+    "chat.commandCenter.enabled": false, // Desabilita o chat no Command Center
 }
