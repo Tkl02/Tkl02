@@ -33,5 +33,6 @@
     "github.copilot.nextEditSuggestions.enabled": true, // Habilita sugestões de edição do GitHub Copilot
     "editor.formatOnSave": true, // Formata automaticamente o arquivo ao salvar
     "workbench.colorTheme": "Min Darkest", // Define o tema de cores do Workbench como 'Min Darkest'
-    "chat.commandCenter.enabled": false, // Desabilita o chat no Command Center
+    "chat.commandCenter.enabled": false,
+    "workbench.secondarySideBar.defaultVisibility": "hidden", // Desabilita o chat no Command Center
 }
